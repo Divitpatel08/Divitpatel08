@@ -1,7 +1,3 @@
-<!-- Profile Header -->
-<p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/main/assets/banner.gif" alt="Banner" style="width:100%; max-width:900px;" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Divit Ghodasara</h1>
 <h3 align="center">A passionate Developer from India 🇮🇳</h3>
