@@ -37,9 +37,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" style="max-width:100%; width:60%;" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" style="max-width:100%; width:60%;" />
-</p>
 
 ---
 
