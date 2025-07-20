@@ -62,13 +62,4 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" style="width:100%; max-width:600px;" />
 </p>
-
-## 🎮 Tic Tac Toe Game (HTML/CSS/JavaScript)
-
-
-- 🗂 [Source Code on GitHub](https://github.com/Divitpatel08/tic-tac-toe-js)
-- 🛠 Built Using: HTML5, CSS3, JavaScript
-- 🎯 Description: A simple browser-based Tic Tac Toe game for 2 players.
-
-
 <p align="center">Thanks for visiting! 😊</p>
